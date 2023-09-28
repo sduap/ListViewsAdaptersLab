@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListViewsAdaptersLab</string>
+    <string-array name="opciones">
+        <item>Reportar</item>
+        <item>Observaciones</item>
+    </string-array>
+    <string-array name="reportes">
+        <item>Colisión</item>
+        <item>Varado</item>
+    </string-array>
+</resources>
